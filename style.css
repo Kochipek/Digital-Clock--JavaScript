@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Bungee);
+body{
+  background-color: black;
+  color: #89CFF0;
+}
+.clock{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translateX(-50%) translateY(-50%);
+font-size: 50px;
+letter-spacing: 7px;
+font-family: 'Bungee';
+}
